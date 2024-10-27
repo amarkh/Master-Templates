@@ -1,0 +1,3 @@
+[submodule "VHDL-Templates"]
+	path = VHDL-Templates
+	url = https://github.com/amarkh/VHDL-Templates.git
